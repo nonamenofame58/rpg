@@ -1,0 +1,1723 @@
+﻿# Game Turkish translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2021-03-01 16:35\n"
+"PO-Revision-Date: 2021-03-01 16:35\n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	019B59C040DFC0C94243AD923B04D165
+#. SourceLocation:	/Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(9 - Value).DisplayNameMap
+#: /Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(9 - Value).DisplayNameMap
+msgctxt ",019B59C040DFC0C94243AD923B04D165"
+msgid "Piece"
+msgstr "Delme"
+
+#. Key:	01A5B6EA4D13EF707BBA42982CEDFEA5
+#. SourceLocation:	/Game/Widgets/ShowSaveOnlineList.ShowSaveOnlineList_C:WidgetTree.TextBlock_88.Text
+#: /Game/Widgets/ShowSaveOnlineList.ShowSaveOnlineList_C:WidgetTree.TextBlock_88.Text
+msgctxt ",01A5B6EA4D13EF707BBA42982CEDFEA5"
+msgid "Close"
+msgstr "Kapat"
+
+#. Key:	030B5B844D3CB858A1858F96EE5F13B8
+#. SourceLocation:	/Game/Widgets/StatsPart.StatsPart_C:WidgetTree.isPercent.Text
+#: /Game/Widgets/StatsPart.StatsPart_C:WidgetTree.isPercent.Text
+msgctxt ",030B5B844D3CB858A1858F96EE5F13B8"
+msgid " %"
+msgstr " %"
+
+#. Key:	04CDF76F40102D4F5E1BC984891A98E4
+#. SourceLocation:	/Game/Widgets/ShowNode.ShowNode_C:WidgetTree.Name.Text
+#: /Game/Widgets/ShowNode.ShowNode_C:WidgetTree.Name.Text
+msgctxt ",04CDF76F40102D4F5E1BC984891A98E4"
+msgid "Brutal"
+msgstr "Acımasız"
+
+#. Key:	0560024B421D6A3E6B1FF89882C97FE8
+#. SourceLocation:	/Game/Widgets/Register.Register_C:WidgetTree.TextBlock_303.Text
+#: /Game/Widgets/Register.Register_C:WidgetTree.TextBlock_303.Text
+msgctxt ",0560024B421D6A3E6B1FF89882C97FE8"
+msgid "Register"
+msgstr "Kayıt"
+
+#. Key:	065D66D14DB37E384334B89651D58342
+#. SourceLocation:	/Game/Widgets/Main.Main_C:Selecting Skill ( Open Panel ) [Script Bytecode]
+#: /Game/Widgets/Main.Main_C:Selecting Skill ( Open Panel ) [Script Bytecode]
+msgctxt ",065D66D14DB37E384334B89651D58342"
+msgid "Selecting"
+msgstr "Seçiliyor"
+
+#. Key:	067F4E0E461081F7C6C790AB753A018D
+#. SourceLocation:	/Game/Widgets/Register.Register_C:WidgetTree.TextBlock_581.Text
+#: /Game/Widgets/Register.Register_C:WidgetTree.TextBlock_581.Text
+msgctxt ",067F4E0E461081F7C6C790AB753A018D"
+msgid "Registeration for save datas online etc."
+msgstr "Kayıt işlemi online oyun kaydetme işlemleri içindir"
+
+#. Key:	074F9F4942D01395A641D0B4A4D50C48
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(16 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(16 - Value).DisplayNameMap
+msgctxt ",074F9F4942D01395A641D0B4A4D50C48"
+msgid "Increase Cold Damage"
+msgstr "Buz Hasarı Yükselmesi"
+
+#. Key:	08FA0BB249E6B085F3819C8E913BBF46
+#. SourceLocation:	/Game/Enums/Monsters.Monsters.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Enums/Monsters.Monsters.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",08FA0BB249E6B085F3819C8E913BBF46"
+msgid "The Night Shade"
+msgstr "Gecenin Gölgesi"
+
+#. Key:	0941E7FE4CF3BC3E719CC48311A06812
+#. SourceLocation:	/Game/Widgets/MerchantPart.MerchantPart_C:WidgetTree.PriceText.Text
+#: /Game/Widgets/MerchantPart.MerchantPart_C:WidgetTree.PriceText.Text
+msgctxt ",0941E7FE4CF3BC3E719CC48311A06812"
+msgid "Price : x2 Portal Scroll"
+msgstr "Fiyatı : x2 Portal Parşömeni"
+
+#. Key:	0ACF6AA143C3C3857B1DA78105CA5120
+#. SourceLocation:	/Game/Widgets/ItemShowcase.ItemShowcase_C:WidgetTree.TextBlock_2.Text
+#: /Game/Widgets/ItemShowcase.ItemShowcase_C:WidgetTree.TextBlock_2.Text
+msgctxt ",0ACF6AA143C3C3857B1DA78105CA5120"
+msgid "Close"
+msgstr "Kapat"
+
+#. Key:	0C65971F43845D23C18575B857F3C83F
+#. SourceLocation:	/Game/Enums/BookProps.BookProps.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Enums/BookProps.BookProps.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",0C65971F43845D23C18575B857F3C83F"
+msgid "Increased Maximum Health"
+msgstr "Azami Sağlık Yükselmesi"
+
+#. Key:	0E2DC8D8402F369A9BAA799FEAE883CE
+#. SourceLocation:	/Game/Enums/Monsters.Monsters.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Enums/Monsters.Monsters.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",0E2DC8D8402F369A9BAA799FEAE883CE"
+msgid "Tribe Warrior"
+msgstr "Kabile Savaşcısı"
+
+#. Key:	0F4D034F4077166ADF1CC2BD5651FA59
+#. SourceLocation:	/Game/Enums/QuestsEnum.QuestsEnum.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Enums/QuestsEnum.QuestsEnum.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",0F4D034F4077166ADF1CC2BD5651FA59"
+msgid "Default"
+msgstr "Default"
+
+#. Key:	0FE9FA894CF218EB3CBB0B8FB32497CC
+#. SourceLocation:	/Game/Widgets/Menu.Menu_C:WidgetTree.ReturnMainMenuText.Text
+#: /Game/Widgets/Menu.Menu_C:WidgetTree.ReturnMainMenuText.Text
+msgctxt ",0FE9FA894CF218EB3CBB0B8FB32497CC"
+msgid "Return Main Menu"
+msgstr "Ana Menüye Dön"
+
+#. Key:	101CFAD0489AB2B36F0473A94DCB8BC2
+#. SourceLocation:	/Game/Widgets/Main.Main_C:WidgetTree.HealthText.Text
+#: /Game/Widgets/Main.Main_C:WidgetTree.HealthText.Text
+msgctxt ",101CFAD0489AB2B36F0473A94DCB8BC2"
+msgid "0 / 0"
+msgstr "0 / 0"
+
+#. Key:	110F7C6845D86D89FAE00AB8811D9505
+#. SourceLocation:	/Game/Widgets/ItemShowPU.ItemShowPU_C:WidgetTree.TextBlock_1.Text
+#: /Game/Widgets/ItemShowPU.ItemShowPU_C:WidgetTree.TextBlock_1.Text
+msgctxt ",110F7C6845D86D89FAE00AB8811D9505"
+msgid "x5"
+msgstr "x5"
+
+#. Key:	11BA35ED4C9EED8BA5C64CA57BB27694
+#. SourceLocation:	/Game/Widgets/ShowNode.ShowNode_C:WidgetTree.CloseButton.Text
+#: /Game/Widgets/ShowNode.ShowNode_C:WidgetTree.CloseButton.Text
+msgctxt ",11BA35ED4C9EED8BA5C64CA57BB27694"
+msgid "Close"
+msgstr "Kapat"
+
+#. Key:	11EB9505403EAE086D7650B5135E84DA
+#. SourceLocation:	/Game/Widgets/ItemShowcase.ItemShowcase_C:WidgetTree.TextBlock_1.Text
+#: /Game/Widgets/ItemShowcase.ItemShowcase_C:WidgetTree.TextBlock_1.Text
+msgctxt ",11EB9505403EAE086D7650B5135E84DA"
+msgid "Scroll"
+msgstr "Parşömen"
+
+#. Key:	11EEC8BC4C715697608AC58CD7944083
+#. SourceLocation:	/Game/Enums/TeleportLocations.TeleportLocations.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Enums/TeleportLocations.TeleportLocations.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",11EEC8BC4C715697608AC58CD7944083"
+msgid "DawnTown"
+msgstr "Şafak Kasabası"
+
+#. Key:	13F137A5490B4DE6B0EBD394F3604115
+#. SourceLocation:	/Game/Widgets/PlayerDeath.PlayerDeath_C:WidgetTree.TextBlock_61.Text
+#: /Game/Widgets/PlayerDeath.PlayerDeath_C:WidgetTree.TextBlock_61.Text
+msgctxt ",13F137A5490B4DE6B0EBD394F3604115"
+msgid "Died"
+msgstr "Öldün"
+
+#. Key:	1417AFAA40C4A4C6ECFBC9888F8F7A31
+#. SourceLocation:	/Game/Enums/QuestsEnum.QuestsEnum.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Enums/QuestsEnum.QuestsEnum.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",1417AFAA40C4A4C6ECFBC9888F8F7A31"
+msgid "Kill The Night Shade"
+msgstr "Gecenin Gölgesini Öldür"
+
+#. Key:	145D1E044DF70947FBEC8EA1DD888B92
+#. SourceLocation:	/Game/Enums/Raritys.Raritys.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Enums/Raritys.Raritys.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",145D1E044DF70947FBEC8EA1DD888B92"
+msgid "Rare"
+msgstr "Nadir"
+
+#. Key:	14E8E22B4BA6035533CA6282ED0BA675
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(26 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(26 - Value).DisplayNameMap
+msgctxt ",14E8E22B4BA6035533CA6282ED0BA675"
+msgid "Stat Point"
+msgstr "Ağaç Puanı"
+
+#. Key:	15671C0E486D757FD798F8A7E4AB4968
+#. SourceLocation:	/Game/Widgets/QuestsMonsterTracker.QuestsMonsterTracker_C:WidgetTree.MonsterKillName.Text
+#: /Game/Widgets/QuestsMonsterTracker.QuestsMonsterTracker_C:WidgetTree.MonsterKillName.Text
+msgctxt ",15671C0E486D757FD798F8A7E4AB4968"
+msgid "Night Shade"
+msgstr "Gecenin Gölgesi"
+
+#. Key:	15AF6C3B4573D458815446B728D265B2
+#. SourceLocation:	/Game/Enums/Requirements.Requirements.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Enums/Requirements.Requirements.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",15AF6C3B4573D458815446B728D265B2"
+msgid "Dexterity"
+msgstr "Çabukluk"
+
+#. Key:	16159E0B4CADA8EC097F10AE95BF4B5F
+#. SourceLocation:	/Game/Enums/Ability.Ability.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Enums/Ability.Ability.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",16159E0B4CADA8EC097F10AE95BF4B5F"
+msgid "Create Portal"
+msgstr "Portal Aç"
+
+#. Key:	16586BFE4FD84A732C7A39AE7367C464
+#. SourceLocation:	/Game/Widgets/OldManQuests.OldManQuests_C:WidgetTree.ButtonText.Text
+#: /Game/Widgets/OldManQuests.OldManQuests_C:WidgetTree.ButtonText.Text
+msgctxt ",16586BFE4FD84A732C7A39AE7367C464"
+msgid "Text"
+msgstr "Yazı"
+
+#. Key:	16869DCC4DAE90D287B412AE07B82553
+#. SourceLocation:	/Game/Enums/Ability.Ability.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Enums/Ability.Ability.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",16869DCC4DAE90D287B412AE07B82553"
+msgid "Default"
+msgstr "Default"
+
+#. Key:	16BC68614EF178563A88ED9018C14E72
+#. SourceLocation:	/Game/Widgets/EnemyWidget.EnemyWidget_C:WidgetTree.Name.Text
+#: /Game/Widgets/EnemyWidget.EnemyWidget_C:WidgetTree.Name.Text
+msgctxt ",16BC68614EF178563A88ED9018C14E72"
+msgid "Name"
+msgstr "İsim"
+
+#. Key:	181382F948593EDC3CC9BDBB1DEB8C07
+#. SourceLocation:	/Game/Widgets/Register.Register_C:WidgetTree.Nickname.HintText
+#: /Game/Widgets/Register.Register_C:WidgetTree.Nickname.HintText
+msgctxt ",181382F948593EDC3CC9BDBB1DEB8C07"
+msgid "Nickname"
+msgstr "Takma İsim"
+
+#. Key:	184208374AA6C6C087460B82560F9795
+#. SourceLocation:	/Game/Enums/Equipments.Equipments.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Enums/Equipments.Equipments.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",184208374AA6C6C087460B82560F9795"
+msgid "Shield"
+msgstr "Kalkan"
+
+#. Key:	184B2D6E492979B38817F9A416E712D8
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(14 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(14 - Value).DisplayNameMap
+msgctxt ",184B2D6E492979B38817F9A416E712D8"
+msgid "Increase Physical Defance"
+msgstr "Fiziksel Defans Yükselmesi"
+
+#. Key:	19D19AD7463817AD592D48B3C98F13B0
+#. SourceLocation:	/Game/Widgets/MapOpener.MapOpener_C:WidgetTree.TextBlock_212.Text
+#: /Game/Widgets/MapOpener.MapOpener_C:WidgetTree.TextBlock_212.Text
+msgctxt ",19D19AD7463817AD592D48B3C98F13B0"
+msgid "Machine"
+msgstr "Makine"
+
+#. Key:	1A6E312247555848A3405DA36BC81235
+#. SourceLocation:	/Game/Enums/NodeName.NodeName.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Enums/NodeName.NodeName.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",1A6E312247555848A3405DA36BC81235"
+msgid "Strength 2"
+msgstr "Güç 2"
+
+#. Key:	1D78F4AE40389E4B04A22597C22A4144
+#. SourceLocation:	/Game/Enums/BookProps.BookProps.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Enums/BookProps.BookProps.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",1D78F4AE40389E4B04A22597C22A4144"
+msgid "Increase Monster Rarity"
+msgstr "Canavar Nadirliği Yükselmesi"
+
+#. Key:	1D7B676541203D8FB9806F93B01D9B9E
+#. SourceLocation:	/Game/Widgets/Menu.Menu_C:WidgetTree.ExitGameText.Text
+#: /Game/Widgets/Menu.Menu_C:WidgetTree.ExitGameText.Text
+msgctxt ",1D7B676541203D8FB9806F93B01D9B9E"
+msgid "Exit Game"
+msgstr "Oyundan Çık"
+
+#. Key:	1E20BD73494BC485E1F4968153546275
+#. SourceLocation:	/Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",1E20BD73494BC485E1F4968153546275"
+msgid "Default"
+msgstr "Default"
+
+#. Key:	20F012DB457793B68495ACAC571D55C7
+#. SourceLocation:	/Game/Widgets/Menu.Menu_C:WidgetTree.TextBlock_410.Text
+#: /Game/Widgets/Menu.Menu_C:WidgetTree.TextBlock_410.Text
+msgctxt ",20F012DB457793B68495ACAC571D55C7"
+msgid "Menu"
+msgstr "Menü"
+
+#. Key:	20FF8A6D41B962FEDE229AB6E1236CB0
+#. SourceLocation:	/Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",20FF8A6D41B962FEDE229AB6E1236CB0"
+msgid "Gloves"
+msgstr "Kolluk"
+
+#. Key:	21CEB6BA47072FEE41588E9DA849AE7D
+#. SourceLocation:	/Game/Widgets/Node.Node_C:WidgetTree.BladeBoomerangName.Text
+#: /Game/Widgets/Node.Node_C:WidgetTree.BladeBoomerangName.Text
+msgctxt ",21CEB6BA47072FEE41588E9DA849AE7D"
+msgid "awdewqed awdewqed awdewqed"
+msgstr "awdewqed awdewqed awdewqed"
+
+#. Key:	22093612430B056D2EBDAF833AF164AE
+#. SourceLocation:	/Game/Enums/Raritys.Raritys.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Enums/Raritys.Raritys.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",22093612430B056D2EBDAF833AF164AE"
+msgid "Normal"
+msgstr "Normal"
+
+#. Key:	2243974E4E240FEE37C7A180B69C660C
+#. SourceLocation:	/Game/Widgets/Merchant.Merchant_C:WidgetTree.MerchantText.Text
+#: /Game/Widgets/Merchant.Merchant_C:WidgetTree.MerchantText.Text
+msgctxt ",2243974E4E240FEE37C7A180B69C660C"
+msgid "Merchant"
+msgstr "Pazar"
+
+#. Key:	24DC8276427AB6C5679755992259FF0E
+#. SourceLocation:	/Game/Widgets/GameStart.GameStart_C:WidgetTree.LoadGameOnlineText.Text
+#: /Game/Widgets/GameStart.GameStart_C:WidgetTree.LoadGameOnlineText.Text
+msgctxt ",24DC8276427AB6C5679755992259FF0E"
+msgid "Load Game Online"
+msgstr "Oyunu Online Yükle"
+
+#. Key:	253B48784370AB2ACF37189002454B6A
+#. SourceLocation:	/Game/Widgets/Login.Login_C:WidgetTree.LostpwText.Text
+#: /Game/Widgets/Login.Login_C:WidgetTree.LostpwText.Text
+msgctxt ",253B48784370AB2ACF37189002454B6A"
+msgid "Lost Password ? "
+msgstr "Şifremi Kaybettim"
+
+#. Key:	258A53F24F2E1E2B320B9A8944C8B907
+#. SourceLocation:	/Game/Widgets/ShowSaveListOnlinePart.ShowSaveListOnlinePart_C:WidgetTree.LevelText.Text
+#: /Game/Widgets/ShowSaveListOnlinePart.ShowSaveListOnlinePart_C:WidgetTree.LevelText.Text
+msgctxt ",258A53F24F2E1E2B320B9A8944C8B907"
+msgid "25255"
+msgstr "25255"
+
+#. Key:	27F850024D5E24294466C2ACFDFFBCED
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(24 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(24 - Value).DisplayNameMap
+msgctxt ",27F850024D5E24294466C2ACFDFFBCED"
+msgid "Default"
+msgstr "Default"
+
+#. Key:	286495BD4D20ED726A4405B370F36DDD
+#. SourceLocation:	/Game/Widgets/Register.Register_C:WidgetTree.Email.HintText
+#: /Game/Widgets/Register.Register_C:WidgetTree.Email.HintText
+msgctxt ",286495BD4D20ED726A4405B370F36DDD"
+msgid "E-mail"
+msgstr "E-mail"
+
+#. Key:	29258ADC4156E488266BF6BCB6177878
+#. SourceLocation:	/Game/Enums/ItemCondition.ItemCondition.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Enums/ItemCondition.ItemCondition.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",29258ADC4156E488266BF6BCB6177878"
+msgid "Shop"
+msgstr "Pazar"
+
+#. Key:	2BD0A6EF46D8FBBE09CB0294EA5C6AC9
+#. SourceLocation:	/Game/Enums/WeaponAttachName.WeaponAttachName.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Enums/WeaponAttachName.WeaponAttachName.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",2BD0A6EF46D8FBBE09CB0294EA5C6AC9"
+msgid "Shield"
+msgstr "Kalkan"
+
+#. Key:	2CF9645B48008D6CD8F81CB8336C6190
+#. SourceLocation:	/Game/Enums/BookProps.BookProps.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Enums/BookProps.BookProps.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",2CF9645B48008D6CD8F81CB8336C6190"
+msgid "Default"
+msgstr "Default"
+
+#. Key:	2D9BCF564602095AAA1D04A348AF54B3
+#. SourceLocation:	/Game/Widgets/StatsPart.StatsPart_C:WidgetTree.TextBlock_185.Text
+#: /Game/Widgets/StatsPart.StatsPart_C:WidgetTree.TextBlock_185.Text
+msgctxt ",2D9BCF564602095AAA1D04A348AF54B3"
+msgid " : "
+msgstr " : "
+
+#. Key:	2EDB9709480154B1AF4503952F53535E
+#. SourceLocation:	/Game/Widgets/Menu.Menu_C:WidgetTree.SaveGameButtonText.Text
+#: /Game/Widgets/Menu.Menu_C:WidgetTree.SaveGameButtonText.Text
+msgctxt ",2EDB9709480154B1AF4503952F53535E"
+msgid "Save Game"
+msgstr "Oyunu Kaydet"
+
+#. Key:	30C55CDA40D0F4E91CC64993A50EAF77
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(18 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(18 - Value).DisplayNameMap
+msgctxt ",30C55CDA40D0F4E91CC64993A50EAF77"
+msgid "Increase Fire Resistance"
+msgstr "Ateş Resistansı Yükselmesi"
+
+#. Key:	331DFD6B4B8C9FF8A22D72AB49A5033E
+#. SourceLocation:	/Game/Enums/Equipments.Equipments.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Enums/Equipments.Equipments.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",331DFD6B4B8C9FF8A22D72AB49A5033E"
+msgid "Chest"
+msgstr "Göğüslük"
+
+#. Key:	33831E184412FE5B4829DBA6A3F3EB31
+#. SourceLocation:	/Game/Widgets/ShowSaveListOnlinePart.ShowSaveListOnlinePart_C:WidgetTree.LoadButtonText.Text
+#: /Game/Widgets/ShowSaveListOnlinePart.ShowSaveListOnlinePart_C:WidgetTree.LoadButtonText.Text
+msgctxt ",33831E184412FE5B4829DBA6A3F3EB31"
+msgid "Load"
+msgstr "Yükle"
+
+#. Key:	33C7219C45C25C180340EAA971A579FB
+#. SourceLocation:	/Game/Widgets/Blacksmith.Blacksmith_C:WidgetTree.TextBlock_1.Text
+#: /Game/Widgets/Blacksmith.Blacksmith_C:WidgetTree.TextBlock_1.Text
+msgctxt ",33C7219C45C25C180340EAA971A579FB"
+msgid "Close"
+msgstr "Kapat"
+
+#. Key:	35DB3D6E474BE486DE25728744F3B3D3
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(15 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(15 - Value).DisplayNameMap
+msgctxt ",35DB3D6E474BE486DE25728744F3B3D3"
+msgid "Increase Fire Damage"
+msgstr "Ateş Hasarı Yükselmesi"
+
+#. Key:	37B3D82749A870D36F7E2ABFB6C3A982
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(10 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(10 - Value).DisplayNameMap
+msgctxt ",37B3D82749A870D36F7E2ABFB6C3A982"
+msgid "Intelligence"
+msgstr "Zeka"
+
+#. Key:	39CD838C4F4780014A0CE897EC6C30C3
+#. SourceLocation:	/Game/Widgets/Map.Map_C:WidgetTree.TextBlock_1.Text
+#: /Game/Widgets/Map.Map_C:WidgetTree.TextBlock_1.Text
+msgctxt ",39CD838C4F4780014A0CE897EC6C30C3"
+msgid "Close Map"
+msgstr "Haritayı Kapat"
+
+#. Key:	3A27BF854935A4DEC465CBB6310AB9A9
+#. SourceLocation:	/Game/Widgets/Login.Login_C:WidgetTree.TextBlock_276.Text
+#: /Game/Widgets/Login.Login_C:WidgetTree.TextBlock_276.Text
+msgctxt ",3A27BF854935A4DEC465CBB6310AB9A9"
+msgid "Close"
+msgstr "Kapat"
+
+#. Key:	3A6E2A7F4E9C5F8719DF928AB331FB12
+#. SourceLocation:	/Game/Widgets/LoadingWidget.LoadingWidget_C:WidgetTree.LevelName.Text
+#: /Game/Widgets/LoadingWidget.LoadingWidget_C:WidgetTree.LevelName.Text
+msgctxt ",3A6E2A7F4E9C5F8719DF928AB331FB12"
+msgid "Dawn Town"
+msgstr "Şafak Kasabası"
+
+#. Key:	3AB333DD433218F730242F8156C2533C
+#. SourceLocation:	/Game/Widgets/Login.Login_C:WidgetTree.InputPassword.HintText
+#: /Game/Widgets/Login.Login_C:WidgetTree.InputPassword.HintText
+msgctxt ",3AB333DD433218F730242F8156C2533C"
+msgid "Password"
+msgstr "Şifre"
+
+#. Key:	3D72E4A445C59430EB90F58394412A49
+#. SourceLocation:	/Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(11 - Value).DisplayNameMap
+#: /Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(11 - Value).DisplayNameMap
+msgctxt ",3D72E4A445C59430EB90F58394412A49"
+msgid "Scroll"
+msgstr "Parşömen"
+
+#. Key:	3DAAC7AD43EBD0EA46D536BE4A7CA703
+#. SourceLocation:	/Game/Widgets/QuestsMonsterTracker.QuestsMonsterTracker_C:WidgetTree.MonsterKillCount.Text
+#: /Game/Widgets/QuestsMonsterTracker.QuestsMonsterTracker_C:WidgetTree.MonsterKillCount.Text
+msgctxt ",3DAAC7AD43EBD0EA46D536BE4A7CA703"
+msgid "25"
+msgstr "25"
+
+#. Key:	41C4C8734EBFF9BEEED961B7926A8D33
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",41C4C8734EBFF9BEEED961B7926A8D33"
+msgid "Physical Damage"
+msgstr "Fiziksel Hasar"
+
+#. Key:	41D712654AFD3A25105E50B5F84BA98F
+#. SourceLocation:	/Game/Enums/QuestsEnum.QuestsEnum.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Enums/QuestsEnum.QuestsEnum.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",41D712654AFD3A25105E50B5F84BA98F"
+msgid "Take Sword"
+msgstr "Kılıcı Al"
+
+#. Key:	42033B5D464B2BBEFD5C4EA5B05A481E
+#. SourceLocation:	/Game/Widgets/ShowSaveList.ShowSaveList_C:WidgetTree.TextBlock_88.Text
+#: /Game/Widgets/ShowSaveList.ShowSaveList_C:WidgetTree.TextBlock_88.Text
+msgctxt ",42033B5D464B2BBEFD5C4EA5B05A481E"
+msgid "Close"
+msgstr "Kapat"
+
+#. Key:	42925489455275844FF98BA05BA5AB14
+#. SourceLocation:	/Game/Widgets/ShowSaveListPart.ShowSaveListPart_C:WidgetTree.RemoveSlotText.Text
+#: /Game/Widgets/ShowSaveListPart.ShowSaveListPart_C:WidgetTree.RemoveSlotText.Text
+msgctxt ",42925489455275844FF98BA05BA5AB14"
+msgid "Remove Slot"
+msgstr "Slotu sil"
+
+#. Key:	4560A39845A6A8374AA436AF6E5FC6DA
+#. SourceLocation:	/Game/Enums/NodeName.NodeName.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Enums/NodeName.NodeName.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",4560A39845A6A8374AA436AF6E5FC6DA"
+msgid "Endurance 2"
+msgstr "Dayanıklılık 2"
+
+#. Key:	465FA08F472A35247BED01BB8A89C038
+#. SourceLocation:	/Game/Enums/Equipments.Equipments.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/Enums/Equipments.Equipments.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",465FA08F472A35247BED01BB8A89C038"
+msgid "Pants"
+msgstr "Pantolon"
+
+#. Key:	4695173E43EFBB52739965B34A9C1410
+#. SourceLocation:	/Game/Enums/NodeName.NodeName.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/Enums/NodeName.NodeName.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",4695173E43EFBB52739965B34A9C1410"
+msgid "Brutal"
+msgstr "Acımasız"
+
+#. Key:	46B7D82842449B07DFD2ADA892D0B4F6
+#. SourceLocation:	/Game/Widgets/QuestsPart.QuestsPart_C:WidgetTree.QuestHeaderText.Text
+#: /Game/Widgets/QuestsPart.QuestsPart_C:WidgetTree.QuestHeaderText.Text
+msgctxt ",46B7D82842449B07DFD2ADA892D0B4F6"
+msgid "Header"
+msgstr "Başlık"
+
+#. Key:	47D29709487A7482AF2780B3C1CCDE30
+#. SourceLocation:	/Game/Widgets/Menu.Menu_C:WidgetTree.VolumeText.Text
+#: /Game/Widgets/Menu.Menu_C:WidgetTree.VolumeText.Text
+msgctxt ",47D29709487A7482AF2780B3C1CCDE30"
+msgid "100"
+msgstr "100"
+
+#. Key:	4A9BB89B41515A6564FB429B413A4BA6
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",4A9BB89B41515A6564FB429B413A4BA6"
+msgid "Lightning Damage"
+msgstr "Elektirik Hasarı"
+
+#. Key:	4ADBB2DE40202C577254E1A53E1F0664
+#. SourceLocation:	/Game/Enums/Requirements.Requirements.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Enums/Requirements.Requirements.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",4ADBB2DE40202C577254E1A53E1F0664"
+msgid "Strength"
+msgstr "Güç"
+
+#. Key:	4BAFB5774B4F5CAA0E31EF91857676EF
+#. SourceLocation:	/Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",4BAFB5774B4F5CAA0E31EF91857676EF"
+msgid "Chest"
+msgstr "Göğüslük"
+
+#. Key:	4E90540C4919E878924D8DB2AA4420B1
+#. SourceLocation:	/Game/Widgets/Menu.Menu_C:WidgetTree.SaveGameOnlineButtonText.Text
+#: /Game/Widgets/Menu.Menu_C:WidgetTree.SaveGameOnlineButtonText.Text
+msgctxt ",4E90540C4919E878924D8DB2AA4420B1"
+msgid "Save Game Online"
+msgstr "Oyunu Online Kaydet"
+
+#. Key:	4EA79FAA4736FD418EAC428F1C6655C2
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(20 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(20 - Value).DisplayNameMap
+msgctxt ",4EA79FAA4736FD418EAC428F1C6655C2"
+msgid "Increase Lightning Resistance"
+msgstr "Elektirik Resiztansı Yükselmesi"
+
+#. Key:	51F9F948462F631297C5F08406BF1999
+#. SourceLocation:	/Game/Enums/Skills.Skills.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Enums/Skills.Skills.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",51F9F948462F631297C5F08406BF1999"
+msgid "Blade Slash"
+msgstr "Bıçak Fırlatma"
+
+#. Key:	522E6D6A4556EC7F8F10959A3381E188
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(13 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(13 - Value).DisplayNameMap
+msgctxt ",522E6D6A4556EC7F8F10959A3381E188"
+msgid "Increase Maximum Life"
+msgstr "Azami Sağlık Yükselmesi"
+
+#. Key:	52A25BDC427FA5D566CC8EA19FB42DBA
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(9 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(9 - Value).DisplayNameMap
+msgctxt ",52A25BDC427FA5D566CC8EA19FB42DBA"
+msgid "Strength"
+msgstr "Güç"
+
+#. Key:	54B959004233498D5E338FA3B3AB6C7A
+#. SourceLocation:	/Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",54B959004233498D5E338FA3B3AB6C7A"
+msgid "Pants"
+msgstr "Pantolon"
+
+#. Key:	54D24B5D4052B876DBE7F5B3580DF50F
+#. SourceLocation:	/Game/Enums/NodeName.NodeName.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Enums/NodeName.NodeName.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",54D24B5D4052B876DBE7F5B3580DF50F"
+msgid "Chains Of Warrior"
+msgstr "Savaşçının Zincirleri"
+
+#. Key:	55DF3D664CF2185570FC9096D19CFDDE
+#. SourceLocation:	/Game/Widgets/ShowSaveListOnlinePart.ShowSaveListOnlinePart_C:WidgetTree.RemoveSlotText.Text
+#: /Game/Widgets/ShowSaveListOnlinePart.ShowSaveListOnlinePart_C:WidgetTree.RemoveSlotText.Text
+msgctxt ",55DF3D664CF2185570FC9096D19CFDDE"
+msgid "Remove Slot"
+msgstr "Slotu Sil"
+
+#. Key:	57074EDF4CA694B5E2DFC682B3B0AA1A
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",57074EDF4CA694B5E2DFC682B3B0AA1A"
+msgid "Cold Resistance"
+msgstr "Buz Rezistansı"
+
+#. Key:	57C27DF5493EB5CB6EF257A4AEB71C8B
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",57C27DF5493EB5CB6EF257A4AEB71C8B"
+msgid "Maximum Health"
+msgstr "Azami Sağlık"
+
+#. Key:	5846246548118C53136CF698AA03C3CC
+#. SourceLocation:	/Game/Enums/Requirements.Requirements.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Enums/Requirements.Requirements.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",5846246548118C53136CF698AA03C3CC"
+msgid "Intelligence"
+msgstr "Zeka"
+
+#. Key:	595107364CCEF559D84A1CA5BCF77FA9
+#. SourceLocation:	/Game/Enums/Equipments.Equipments.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Enums/Equipments.Equipments.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",595107364CCEF559D84A1CA5BCF77FA9"
+msgid "Sword"
+msgstr "Kılıç"
+
+#. Key:	5A86E7FC46904201A08ADAB92D821122
+#. SourceLocation:	/Game/Widgets/Blacksmith.Blacksmith_C:WidgetTree.TextBlock_0.Text
+#: /Game/Widgets/Blacksmith.Blacksmith_C:WidgetTree.TextBlock_0.Text
+msgctxt ",5A86E7FC46904201A08ADAB92D821122"
+msgid "Blacksmith"
+msgstr "Demirci"
+
+#. Key:	5ADA311041DB29432B6AA3A91C2D1506
+#. SourceLocation:	/Game/Widgets/Main.Main_C:WidgetTree.TextBlock_156.Text
+#: /Game/Widgets/Main.Main_C:WidgetTree.TextBlock_156.Text
+msgctxt ",5ADA311041DB29432B6AA3A91C2D1506"
+msgid "Quests"
+msgstr "Görevler"
+
+#. Key:	5C3A07D34DAE719F3413889EB220E2E1
+#. SourceLocation:	/Game/Enums/Equipments.Equipments.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Enums/Equipments.Equipments.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",5C3A07D34DAE719F3413889EB220E2E1"
+msgid "Default"
+msgstr "Default"
+
+#. Key:	5DC64D5C49EC70C3BFF84FAC4F4C20C9
+#. SourceLocation:	/Game/Widgets/InventorySlot.InventorySlot_C:WidgetTree.ItemQuantity.Text
+#: /Game/Widgets/InventorySlot.InventorySlot_C:WidgetTree.ItemQuantity.Text
+msgctxt ",5DC64D5C49EC70C3BFF84FAC4F4C20C9"
+msgid "9999"
+msgstr "9999"
+
+#. Key:	5E441D1149CB5C7A095BE0A091BB4C19
+#. SourceLocation:	/Game/Widgets/Map.Map_C:WidgetTree.TextBlock_0.Text
+#: /Game/Widgets/Map.Map_C:WidgetTree.TextBlock_0.Text
+msgctxt ",5E441D1149CB5C7A095BE0A091BB4C19"
+msgid "Locations"
+msgstr "Bölgeler"
+
+#. Key:	5E4A721746ECA359B9824B9B06238FA3
+#. SourceLocation:	/Game/Widgets/Node.Node_C:WidgetTree.BarkSkinName.Text
+#: /Game/Widgets/Node.Node_C:WidgetTree.BarkSkinName.Text
+msgctxt ",5E4A721746ECA359B9824B9B06238FA3"
+msgid "awdewqed awdewqed awdewqed"
+msgstr "awdewqed awdewqed awdewqed"
+
+#. Key:	5F125FF4455FB6E7B5FFBBA106006C58
+#. SourceLocation:	/Game/Widgets/OldManWidget.OldManWidget_C:WidgetTree.TextBlock_72.Text
+#: /Game/Widgets/OldManWidget.OldManWidget_C:WidgetTree.TextBlock_72.Text
+msgctxt ",5F125FF4455FB6E7B5FFBBA106006C58"
+msgid "Hello"
+msgstr "Merhaba"
+
+#. Key:	5F1AB2BA418409B9364D2DBE84FFDDA8
+#. SourceLocation:	/Game/Enums/Equipments.Equipments.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Enums/Equipments.Equipments.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",5F1AB2BA418409B9364D2DBE84FFDDA8"
+msgid "Helmet"
+msgstr "Miğfer"
+
+#. Key:	5FA5A4A54C469F6CD85765AFFE8A3B30
+#. SourceLocation:	/Game/Widgets/Main.Main_C:WidgetTree.SelectText1.Text
+#: /Game/Widgets/Main.Main_C:WidgetTree.SelectText1.Text
+msgctxt ",5FA5A4A54C469F6CD85765AFFE8A3B30"
+msgid "Select"
+msgstr "Seç"
+
+#. Key:	606294864FCEAB528EFFE7969FEAFD71
+#. SourceLocation:	/Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",606294864FCEAB528EFFE7969FEAFD71"
+msgid "Boots"
+msgstr "Botlar"
+
+#. Key:	69AC1E734304A034365222B82A9F74B7
+#. SourceLocation:	/Game/Widgets/GameStart.GameStart_C:WidgetTree.CharacterName.HintText
+#: /Game/Widgets/GameStart.GameStart_C:WidgetTree.CharacterName.HintText
+msgctxt ",69AC1E734304A034365222B82A9F74B7"
+msgid "Character Name"
+msgstr "Karakter İsimi"
+
+#. Key:	6A40208540471F9614EBA9A9B4705CF1
+#. SourceLocation:	/Game/Widgets/Locations.Locations_C:WidgetTree.LocationNameText.Text
+#: /Game/Widgets/Locations.Locations_C:WidgetTree.LocationNameText.Text
+msgctxt ",6A40208540471F9614EBA9A9B4705CF1"
+msgid "Location Name"
+msgstr "Bölge İsmi"
+
+#. Key:	6A4F65C1419D3098C48B9889CA76F88A
+#. SourceLocation:	/Game/Enums/ItemCondition.ItemCondition.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Enums/ItemCondition.ItemCondition.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",6A4F65C1419D3098C48B9889CA76F88A"
+msgid "Equiped"
+msgstr "Kuşanılmış"
+
+#. Key:	6AC686114444E29530C752BBC9872AE1
+#. SourceLocation:	/Game/Enums/LocationsEnum.LocationsEnum.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Enums/LocationsEnum.LocationsEnum.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",6AC686114444E29530C752BBC9872AE1"
+msgid "Default"
+msgstr "Default"
+
+#. Key:	6C074EF243FB74A7D4664DBCCF7834FF
+#. SourceLocation:	/Game/Widgets/QuestsMonsterTracker.QuestsMonsterTracker_C:WidgetTree.TextBlock_129.Text
+#: /Game/Widgets/QuestsMonsterTracker.QuestsMonsterTracker_C:WidgetTree.TextBlock_129.Text
+msgctxt ",6C074EF243FB74A7D4664DBCCF7834FF"
+msgid "/"
+msgstr "/"
+
+#. Key:	6F1D051E4C8099E774CDBF9017D5B8F6
+#. SourceLocation:	/Game/Enums/NodeName.NodeName.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Enums/NodeName.NodeName.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",6F1D051E4C8099E774CDBF9017D5B8F6"
+msgid "Default"
+msgstr "Default"
+
+#. Key:	6F3725E74D55B4F982ADE296EB9B18CA
+#. SourceLocation:	/Game/Widgets/LoggedIN.LoggedIN_C:WidgetTree.CharacterName.Text
+#: /Game/Widgets/LoggedIN.LoggedIN_C:WidgetTree.CharacterName.Text
+msgctxt ",6F3725E74D55B4F982ADE296EB9B18CA"
+msgid "Character Name"
+msgstr "Karakter İsimi"
+
+#. Key:	7071A83F41E0DBC98F4987807F5AF08F
+#. SourceLocation:	/Game/Widgets/Register.Register_C:WidgetTree.TextBlock.Text
+#: /Game/Widgets/Register.Register_C:WidgetTree.TextBlock.Text
+msgctxt ",7071A83F41E0DBC98F4987807F5AF08F"
+msgid "Close"
+msgstr "Kapat"
+
+#. Key:	7102F6114D24B945C3845C828A3346A0
+#. SourceLocation:	/Game/Widgets/Login.Login_C:Request Fail [Script Bytecode]
+#: /Game/Widgets/Login.Login_C:Request Fail [Script Bytecode]
+msgctxt ",7102F6114D24B945C3845C828A3346A0"
+msgid "Something Went Wrong"
+msgstr "Bişeyler Ters Gitti"
+
+#. Key:	71248AB642A26E9D4C3759BADEE47559
+#. SourceLocation:	/Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",71248AB642A26E9D4C3759BADEE47559"
+msgid "Two-Handed Sword"
+msgstr "Çift-Ellik Kılıç"
+
+#. Key:	71D7F6284CA6F326B241F593ECAE62F6
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(17 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(17 - Value).DisplayNameMap
+msgctxt ",71D7F6284CA6F326B241F593ECAE62F6"
+msgid "Increase Lightning Damage"
+msgstr "Elektirik Hasarı Yükselmesi"
+
+#. Key:	725F989849C42E3858C3C88E399F9860
+#. SourceLocation:	/Game/Widgets/BlacksmithItemShowCase.BlacksmithItemShowCase_C:WidgetTree.TextBlock_0.Text
+#: /Game/Widgets/BlacksmithItemShowCase.BlacksmithItemShowCase_C:WidgetTree.TextBlock_0.Text
+msgctxt ",725F989849C42E3858C3C88E399F9860"
+msgid "Portal Scroll"
+msgstr "Portal Parşömeni"
+
+#. Key:	727438D8492ECC627719AA9539B9A6D7
+#. SourceLocation:	/Game/Widgets/Login.Login_C:Request Completed [Script Bytecode]
+#: /Game/Widgets/Login.Login_C:Request Completed [Script Bytecode]
+msgctxt ",727438D8492ECC627719AA9539B9A6D7"
+msgid "Error"
+msgstr "Hata"
+
+#. Key:	732A745842F60F5729E35FAD64C59A7C
+#. SourceLocation:	/Game/Widgets/BlacksmithItemShowCase.BlacksmithItemShowCase_C:WidgetTree.SellButtonText.Text
+#: /Game/Widgets/BlacksmithItemShowCase.BlacksmithItemShowCase_C:WidgetTree.SellButtonText.Text
+msgctxt ",732A745842F60F5729E35FAD64C59A7C"
+msgid "Sell"
+msgstr "Sat"
+
+#. Key:	733A9E204E79204DE0905D89AF01CA33
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(22 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(22 - Value).DisplayNameMap
+msgctxt ",733A9E204E79204DE0905D89AF01CA33"
+msgid "Elemental Life Leech"
+msgstr "Elemental can çekme"
+
+#. Key:	740B5F0B48FD67B988961AA4E799C5C2
+#. SourceLocation:	/Game/Enums/Skills.Skills.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Enums/Skills.Skills.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",740B5F0B48FD67B988961AA4E799C5C2"
+msgid "Default"
+msgstr "Default"
+
+#. Key:	74CD21D24DB93EA1677784B3BBDAFAC9
+#. SourceLocation:	/Game/Widgets/ShowSaveListOnlinePart.ShowSaveListOnlinePart_C:WidgetTree.CharacterName.Text
+#: /Game/Widgets/ShowSaveListOnlinePart.ShowSaveListOnlinePart_C:WidgetTree.CharacterName.Text
+msgctxt ",74CD21D24DB93EA1677784B3BBDAFAC9"
+msgid "Kratosc2"
+msgstr "Kratosc2"
+
+#. Key:	7999C72B4B16F2F53473B1A39466032A
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(11 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(11 - Value).DisplayNameMap
+msgctxt ",7999C72B4B16F2F53473B1A39466032A"
+msgid "Dexterity"
+msgstr "Çabukluk"
+
+#. Key:	7D1F037C4A4C9F23DBCF6AAD67AF50CE
+#. SourceLocation:	/Game/Widgets/Info.Info_C:WidgetTree.InformationText.Text
+#: /Game/Widgets/Info.Info_C:WidgetTree.InformationText.Text
+msgctxt ",7D1F037C4A4C9F23DBCF6AAD67AF50CE"
+msgid "Some Information..."
+msgstr "Bilgilendirme"
+
+#. Key:	7DD73F2244240E82367089AB23E41645
+#. SourceLocation:	/Game/Enums/NodeName.NodeName.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/Enums/NodeName.NodeName.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",7DD73F2244240E82367089AB23E41645"
+msgid "Blade Tornado"
+msgstr "Bıçak Fırtınası"
+
+#. Key:	7E9863E340A40773A25792939A8FAB4C
+#. SourceLocation:	/Game/Widgets/Login.Login_C:Request Completed [Script Bytecode]
+#: /Game/Widgets/Login.Login_C:Request Completed [Script Bytecode]
+msgctxt ",7E9863E340A40773A25792939A8FAB4C"
+msgid "Login Success"
+msgstr "Giriş Başarılı"
+
+#. Key:	8005A7DC48EEC241AE353DB848F440B3
+#. SourceLocation:	/Game/Widgets/MerchantPart.MerchantPart_C:WidgetTree.IncreamentText.Text
+#: /Game/Widgets/MerchantPart.MerchantPart_C:WidgetTree.IncreamentText.Text
+msgctxt ",8005A7DC48EEC241AE353DB848F440B3"
+msgid "+"
+msgstr "+"
+
+#. Key:	866935764F2CC67F9C3B9EB17C472702
+#. SourceLocation:	/Game/Enums/WeaponAttachName.WeaponAttachName.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Enums/WeaponAttachName.WeaponAttachName.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",866935764F2CC67F9C3B9EB17C472702"
+msgid "White Bone"
+msgstr "Beyaz Kemik"
+
+#. Key:	8869FE63492B7AE17A8FD9820D392364
+#. SourceLocation:	/Game/Widgets/Login.Login_C:WidgetTree.TextBlock_130.Text
+#: /Game/Widgets/Login.Login_C:WidgetTree.TextBlock_130.Text
+msgctxt ",8869FE63492B7AE17A8FD9820D392364"
+msgid "Login"
+msgstr "Giriş"
+
+#. Key:	89FC914840EAF532972BBD9FDA318BA4
+#. SourceLocation:	/Game/Enums/BaseType.BaseType.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Enums/BaseType.BaseType.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",89FC914840EAF532972BBD9FDA318BA4"
+msgid "Armor"
+msgstr "Zırh"
+
+#. Key:	8AFB930441F233B234ECF2B3DA8F7CC4
+#. SourceLocation:	/Game/Enums/NodeName.NodeName.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Enums/NodeName.NodeName.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",8AFB930441F233B234ECF2B3DA8F7CC4"
+msgid "Endurance"
+msgstr "Dayanıklılık"
+
+#. Key:	8BE6A6614827F0F0EBF4E098B4A19351
+#. SourceLocation:	/Game/Enums/BaseType.BaseType.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Enums/BaseType.BaseType.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",8BE6A6614827F0F0EBF4E098B4A19351"
+msgid "Default"
+msgstr "Default"
+
+#. Key:	8CAEE9B04068B36B16BC75B3FD8E9F2A
+#. SourceLocation:	/Game/Widgets/Login.Login_C:WidgetTree.InputNickname.HintText
+#: /Game/Widgets/Login.Login_C:WidgetTree.InputNickname.HintText
+msgctxt ",8CAEE9B04068B36B16BC75B3FD8E9F2A"
+msgid "ID"
+msgstr "Kimlik"
+
+#. Key:	8DEAB23F406E6BD07615EE8CB2C4A09B
+#. SourceLocation:	/Game/Widgets/QuestsMonsterTracker.QuestsMonsterTracker_C:WidgetTree.TextBlock_131.Text
+#: /Game/Widgets/QuestsMonsterTracker.QuestsMonsterTracker_C:WidgetTree.TextBlock_131.Text
+msgctxt ",8DEAB23F406E6BD07615EE8CB2C4A09B"
+msgid ":"
+msgstr ":"
+
+#. Key:	90D9F7A24D616EE516D41887F31E645A
+#. SourceLocation:	/Game/Enums/WeaponAttachName.WeaponAttachName.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Enums/WeaponAttachName.WeaponAttachName.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",90D9F7A24D616EE516D41887F31E645A"
+msgid "Black Sword"
+msgstr "Kara Kılıç"
+
+#. Key:	9163E8754E94E1BBD47105A72C769FC9
+#. SourceLocation:	/Game/Enums/WeaponAttachName.WeaponAttachName.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Enums/WeaponAttachName.WeaponAttachName.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",9163E8754E94E1BBD47105A72C769FC9"
+msgid "Dragon"
+msgstr "Ejder"
+
+#. Key:	918FA81645CBF12C1DA19BA3A1B3FA84
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",918FA81645CBF12C1DA19BA3A1B3FA84"
+msgid "Cold Damage"
+msgstr "Buz Hasarı"
+
+#. Key:	920289E54F3B101484F0349C402D5942
+#. SourceLocation:	/Game/Widgets/NPCName.NPCName_C:WidgetTree.Name.Text
+#: /Game/Widgets/NPCName.NPCName_C:WidgetTree.Name.Text
+msgctxt ",920289E54F3B101484F0349C402D5942"
+msgid "Potion Merchant"
+msgstr "İksir Pazarı"
+
+#. Key:	92BC0C1C45F9F0BBEB67D492C3878BAE
+#. SourceLocation:	/Game/Widgets/LoadingWidget.LoadingWidget_C:Set Location [Script Bytecode]
+#: /Game/Widgets/LoadingWidget.LoadingWidget_C:Set Location [Script Bytecode]
+msgctxt ",92BC0C1C45F9F0BBEB67D492C3878BAE"
+msgid "Dawn Town"
+msgstr "Şafak Kasabası"
+
+#. Key:	92EEE22649A6CB05C1EA8DB336AD464D
+#. SourceLocation:	/Game/Widgets/MapOpener.MapOpener_C:WidgetTree.NameText.Text
+#: /Game/Widgets/MapOpener.MapOpener_C:WidgetTree.NameText.Text
+msgctxt ",92EEE22649A6CB05C1EA8DB336AD464D"
+msgid "Location Name"
+msgstr "Bölge İsmi"
+
+#. Key:	9396EF6F4A6B5464923BAFAA83A44E7B
+#. SourceLocation:	/Game/Widgets/TravelNextWorld.TravelNextWorld_C:WidgetTree.No.Text
+#: /Game/Widgets/TravelNextWorld.TravelNextWorld_C:WidgetTree.No.Text
+msgctxt ",9396EF6F4A6B5464923BAFAA83A44E7B"
+msgid "No"
+msgstr "Hayır"
+
+#. Key:	93A1CA8444275A88F76C78B779DAEBF8
+#. SourceLocation:	/Game/Enums/Quest.Quest.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Enums/Quest.Quest.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",93A1CA8444275A88F76C78B779DAEBF8"
+msgid "Take Sword"
+msgstr "Kılıcı Al"
+
+#. Key:	94D6DFAE40B9878AE208FCBD2CE31080
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(12 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(12 - Value).DisplayNameMap
+msgctxt ",94D6DFAE40B9878AE208FCBD2CE31080"
+msgid "Increase Physical Damage"
+msgstr "Fiziksel Hasar Yükselmesi"
+
+#. Key:	953A5F1B418CCFDE4DA4349A94FD3A76
+#. SourceLocation:	/Game/Widgets/ShowSaveListPart.ShowSaveListPart_C:WidgetTree.LoadButtonText.Text
+#: /Game/Widgets/ShowSaveListPart.ShowSaveListPart_C:WidgetTree.LoadButtonText.Text
+msgctxt ",953A5F1B418CCFDE4DA4349A94FD3A76"
+msgid "Load"
+msgstr "Yükle"
+
+#. Key:	96AB3A7B4A01D32B65F538A1E30D3A98
+#. SourceLocation:	/Game/Widgets/ShowNode.ShowNode_C:WidgetTree.TextBlock_512.Text
+#: /Game/Widgets/ShowNode.ShowNode_C:WidgetTree.TextBlock_512.Text
+msgctxt ",96AB3A7B4A01D32B65F538A1E30D3A98"
+msgid "Select"
+msgstr "Seç"
+
+#. Key:	9836F37642331B504999608B53D5A91A
+#. SourceLocation:	/Game/Enums/Skills.Skills.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Enums/Skills.Skills.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",9836F37642331B504999608B53D5A91A"
+msgid "Blade Tornado"
+msgstr "Bıçak Fırtınası"
+
+#. Key:	99137E454A8E38148F27199D0A5C854C
+#. SourceLocation:	/Game/Widgets/Login.Login_C:Construction [Script Bytecode]
+#: /Game/Widgets/Login.Login_C:Construction [Script Bytecode]
+msgctxt ",99137E454A8E38148F27199D0A5C854C"
+msgid "Check Internet Connection"
+msgstr "İnternet Bağlantısını Kontrol Et"
+
+#. Key:	9940E6F64F337158207AA9B86AFA90E7
+#. SourceLocation:	/Game/Widgets/GameStart.GameStart_C:WidgetTree.TextBlock.Text
+#: /Game/Widgets/GameStart.GameStart_C:WidgetTree.TextBlock.Text
+msgctxt ",9940E6F64F337158207AA9B86AFA90E7"
+msgid "Register"
+msgstr "Kayıt"
+
+#. Key:	99FA9441418DA5B86F9A2FA7317B0572
+#. SourceLocation:	/Game/Widgets/GameStart.GameStart_C:WidgetTree.LoginButtonText.Text
+#: /Game/Widgets/GameStart.GameStart_C:WidgetTree.LoginButtonText.Text
+msgctxt ",99FA9441418DA5B86F9A2FA7317B0572"
+msgid "Login"
+msgstr "Giriş"
+
+#. Key:	9ACB18C64B8F043A356FF585212E79F9
+#. SourceLocation:	/Game/Widgets/MapOpener.MapOpener_C:WidgetTree.OpenPortalText.Text
+#: /Game/Widgets/MapOpener.MapOpener_C:WidgetTree.OpenPortalText.Text
+msgctxt ",9ACB18C64B8F043A356FF585212E79F9"
+msgid "Open Portal"
+msgstr "Portal Aç"
+
+#. Key:	9AEA7D264E1A60318260028EE91760D7
+#. SourceLocation:	/Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(10 - Value).DisplayNameMap
+#: /Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(10 - Value).DisplayNameMap
+msgctxt ",9AEA7D264E1A60318260028EE91760D7"
+msgid "Location Information"
+msgstr "Bölge Bilgisi"
+
+#. Key:	9B1856B848DB5CB097E4528B990F301C
+#. SourceLocation:	/Game/Widgets/Tree.Tree_C:WidgetTree.Close.Text
+#: /Game/Widgets/Tree.Tree_C:WidgetTree.Close.Text
+msgctxt ",9B1856B848DB5CB097E4528B990F301C"
+msgid "Close"
+msgstr "Kapat"
+
+#. Key:	9CA0209644712D4AFEF3E0BEB88B7F83
+#. SourceLocation:	/Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(13 - Value).DisplayNameMap
+#: /Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(13 - Value).DisplayNameMap
+msgctxt ",9CA0209644712D4AFEF3E0BEB88B7F83"
+msgid "Shield"
+msgstr "Kalkan"
+
+#. Key:	9CE99CC0492989A6D94E53A9FB465A7B
+#. SourceLocation:	/Game/Enums/ItemCondition.ItemCondition.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Enums/ItemCondition.ItemCondition.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",9CE99CC0492989A6D94E53A9FB465A7B"
+msgid "Inventory"
+msgstr "Envanter"
+
+#. Key:	9D1D80884A057536E300E9AC96061926
+#. SourceLocation:	/Game/Widgets/Login.Login_C:ExecuteUbergraph_Login [Script Bytecode]
+#: /Game/Widgets/Login.Login_C:ExecuteUbergraph_Login [Script Bytecode]
+msgctxt ",9D1D80884A057536E300E9AC96061926"
+msgid "E-mail send to address check spam box"
+msgstr "Email gönderildi spam kutusunu kontrol et"
+
+#. Key:	9D4462FE4BAFC3CF4D655488348A97A9
+#. SourceLocation:	/Game/Widgets/Main.Main_C:WidgetTree.MenuText.Text
+#: /Game/Widgets/Main.Main_C:WidgetTree.MenuText.Text
+msgctxt ",9D4462FE4BAFC3CF4D655488348A97A9"
+msgid "Menu"
+msgstr "Menu"
+
+#. Key:	9DF5E94D46BC8A6AEB043F8C5178E1B5
+#. SourceLocation:	/Game/Widgets/Main.Main_C:Set Buttons Default (Select Skill) [Script Bytecode]
+#: /Game/Widgets/Main.Main_C:Set Buttons Default (Select Skill) [Script Bytecode]
+msgctxt ",9DF5E94D46BC8A6AEB043F8C5178E1B5"
+msgid "Select"
+msgstr "Seç"
+
+#. Key:	9E2249DC4C4A828FBF1084B3FAEF9E58
+#. SourceLocation:	/Game/Enums/Requirements.Requirements.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Enums/Requirements.Requirements.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",9E2249DC4C4A828FBF1084B3FAEF9E58"
+msgid "Level"
+msgstr "Seviye"
+
+#. Key:	9E2DB54A486A549D0FF73E8F38C1456A
+#. SourceLocation:	/Game/Enums/BookProps.BookProps.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/Enums/BookProps.BookProps.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",9E2DB54A486A549D0FF73E8F38C1456A"
+msgid "Increased Elemental Damage"
+msgstr "Elemental Hasar Yükselmesi"
+
+#. Key:	9F354B1246E54111E747829B513A0F60
+#. SourceLocation:	/Game/Widgets/LoggedIN.LoggedIN_C:WidgetTree.TextBlock_130.Text
+#: /Game/Widgets/LoggedIN.LoggedIN_C:WidgetTree.TextBlock_130.Text
+msgctxt ",9F354B1246E54111E747829B513A0F60"
+msgid "Logged In"
+msgstr "Oturum"
+
+#. Key:	9FC1DCB243DF63DE0ADCAFA0563D7B76
+#. SourceLocation:	/Game/Enums/BaseType.BaseType.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Enums/BaseType.BaseType.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",9FC1DCB243DF63DE0ADCAFA0563D7B76"
+msgid "Stackable"
+msgstr "Biriktirilebilir"
+
+#. Key:	A08F4B61447F05040A965F892FE079D0
+#. SourceLocation:	/Game/Enums/BaseType.BaseType.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Enums/BaseType.BaseType.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",A08F4B61447F05040A965F892FE079D0"
+msgid "Location Information"
+msgstr "Bölge Bilgisi"
+
+#. Key:	A187096640435478AF023482582F4C14
+#. SourceLocation:	/Game/Widgets/GameStart.GameStart_C:WidgetTree.MultiLineEditableTextBox_0.Text
+#: /Game/Widgets/GameStart.GameStart_C:WidgetTree.MultiLineEditableTextBox_0.Text
+msgctxt ",A187096640435478AF023482582F4C14"
+msgid "For big updates you should save player data online \r\n---------------\r\nwhile you have already saved data starting new game will overwrite on it."
+msgstr "For big updates you should save player data online \r\n---------------\r\nwhile you have already saved data starting new game will overwrite on it."
+
+#. Key:	A1CC39E943702771149DAEBAC3CEF9AB
+#. SourceLocation:	/Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",A1CC39E943702771149DAEBAC3CEF9AB"
+msgid "Helmet"
+msgstr "Miğfer"
+
+#. Key:	A5D2CDA644AC61C215E4AFA2C1CA3FCE
+#. SourceLocation:	/Game/Enums/Equipments.Equipments.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Enums/Equipments.Equipments.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",A5D2CDA644AC61C215E4AFA2C1CA3FCE"
+msgid "Gloves"
+msgstr "Kolluk"
+
+#. Key:	A6F9F03D449CC91DACE43CB9CF0AF509
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",A6F9F03D449CC91DACE43CB9CF0AF509"
+msgid "Physical Defance"
+msgstr "Fiziksel Defans"
+
+#. Key:	A7D386304F44B90431E69C983284AE04
+#. SourceLocation:	/Game/Enums/Skills.Skills.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Enums/Skills.Skills.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",A7D386304F44B90431E69C983284AE04"
+msgid "Roll"
+msgstr "Yuvarlan"
+
+#. Key:	A7E756D049FBEC36C4BC459CBDADDC05
+#. SourceLocation:	/Game/Widgets/ShowSaveListOnlinePart.ShowSaveListOnlinePart_C:WidgetTree.CreateTime.Text
+#: /Game/Widgets/ShowSaveListOnlinePart.ShowSaveListOnlinePart_C:WidgetTree.CreateTime.Text
+msgctxt ",A7E756D049FBEC36C4BC459CBDADDC05"
+msgid "Time"
+msgstr "Zaman"
+
+#. Key:	A969B92B4DD6FE67ECD1D58031AFED1D
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",A969B92B4DD6FE67ECD1D58031AFED1D"
+msgid "Fire Resistance"
+msgstr "Ateş Rezistansı"
+
+#. Key:	AA33AF064CA48FEF4C9789BE6351EF27
+#. SourceLocation:	/Game/Enums/ItemCondition.ItemCondition.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Enums/ItemCondition.ItemCondition.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",AA33AF064CA48FEF4C9789BE6351EF27"
+msgid "Drop"
+msgstr "Yerdeki"
+
+#. Key:	AACFA992484333B22F4CECB744807941
+#. SourceLocation:	/Game/Widgets/LoadingWidget.LoadingWidget_C:WidgetTree.LoadingText.Text
+#: /Game/Widgets/LoadingWidget.LoadingWidget_C:WidgetTree.LoadingText.Text
+msgctxt ",AACFA992484333B22F4CECB744807941"
+msgid "Loading ..."
+msgstr "Yüklenniyor ..."
+
+#. Key:	AB0B03E44D80848B16687BA1DF54AE07
+#. SourceLocation:	/Game/Widgets/Stats.Stats_C:WidgetTree.TextBlock_1.Text
+#: /Game/Widgets/Stats.Stats_C:WidgetTree.TextBlock_1.Text
+msgctxt ",AB0B03E44D80848B16687BA1DF54AE07"
+msgid "Stats"
+msgstr "Statü"
+
+#. Key:	AB90EEAA4CF65D987C8337A9D1390A25
+#. SourceLocation:	/Game/Enums/Raritys.Raritys.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Enums/Raritys.Raritys.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",AB90EEAA4CF65D987C8337A9D1390A25"
+msgid "Magic"
+msgstr "Büyülü"
+
+#. Key:	ABCAA25B44244876B744AA8B3DB3137F
+#. SourceLocation:	/Game/Widgets/PlayerDeath.PlayerDeath_C:WidgetTree.TextBlock_63.Text
+#: /Game/Widgets/PlayerDeath.PlayerDeath_C:WidgetTree.TextBlock_63.Text
+msgctxt ",ABCAA25B44244876B744AA8B3DB3137F"
+msgid "Respawn"
+msgstr "Yeniden Doğ"
+
+#. Key:	ABD7491E484AEDECC33CA99D531EE0BE
+#. SourceLocation:	/Game/Widgets/Menu.Menu_C:WidgetTree.CloseButtonText.Text
+#: /Game/Widgets/Menu.Menu_C:WidgetTree.CloseButtonText.Text
+msgctxt ",ABD7491E484AEDECC33CA99D531EE0BE"
+msgid "Close Menu"
+msgstr "Meünüyü Kapat"
+
+#. Key:	AC73F1BC41FC7FB9309C82B2317EFCD9
+#. SourceLocation:	/Game/Widgets/MapOpener.MapOpener_C:WidgetTree.CloseButtonText.Text
+#: /Game/Widgets/MapOpener.MapOpener_C:WidgetTree.CloseButtonText.Text
+msgctxt ",AC73F1BC41FC7FB9309C82B2317EFCD9"
+msgid "Close"
+msgstr "Kapat"
+
+#. Key:	AD2C7B504F079A01940783A3015A0A2C
+#. SourceLocation:	/Game/Widgets/GameStart.GameStart_C:WidgetTree.Information.Text
+#: /Game/Widgets/GameStart.GameStart_C:WidgetTree.Information.Text
+msgctxt ",AD2C7B504F079A01940783A3015A0A2C"
+msgid "Information"
+msgstr "Bilgilendirme"
+
+#. Key:	AD5ED80B4DAC44522CEDDC9A008ACFF8
+#. SourceLocation:	/Game/Widgets/GameStart.GameStart_C:WidgetTree.TextBlock_109.Text
+#: /Game/Widgets/GameStart.GameStart_C:WidgetTree.TextBlock_109.Text
+msgctxt ",AD5ED80B4DAC44522CEDDC9A008ACFF8"
+msgid "Exit"
+msgstr "Çık"
+
+#. Key:	AEB2455B4F3556C70444A3A7BD13AE1E
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(27 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(27 - Value).DisplayNameMap
+msgctxt ",AEB2455B4F3556C70444A3A7BD13AE1E"
+msgid "Health"
+msgstr "Sağlık"
+
+#. Key:	AF2DA5FB4CAB337334C7F780056B0152
+#. SourceLocation:	/Game/Enums/BookProps.BookProps.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Enums/BookProps.BookProps.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",AF2DA5FB4CAB337334C7F780056B0152"
+msgid "Increased Physical Damage"
+msgstr "Fiziksel Hasar Yükselmesi"
+
+#. Key:	B062F97E440FD7BB1DB6BE9BF8242710
+#. SourceLocation:	/Game/Widgets/Register.Register_C:WidgetTree.TextBlock_92.Text
+#: /Game/Widgets/Register.Register_C:WidgetTree.TextBlock_92.Text
+msgctxt ",B062F97E440FD7BB1DB6BE9BF8242710"
+msgid "Register"
+msgstr "Kayıt"
+
+#. Key:	B23628CA47724BFDA95A009811CB25DC
+#. SourceLocation:	/Game/Widgets/Login.Login_C:ExecuteUbergraph_Login [Script Bytecode]
+#: /Game/Widgets/Login.Login_C:ExecuteUbergraph_Login [Script Bytecode]
+msgctxt ",B23628CA47724BFDA95A009811CB25DC"
+msgid "Something Went Wrong !"
+msgstr "Bişeyler Ters Gitti"
+
+#. Key:	B25ECCFE4D99C7BB35D20EA2B75D9218
+#. SourceLocation:	/Game/Widgets/ShowSaveOnlineList.ShowSaveOnlineList_C:WidgetTree.TextBlock_86.Text
+#: /Game/Widgets/ShowSaveOnlineList.ShowSaveOnlineList_C:WidgetTree.TextBlock_86.Text
+msgctxt ",B25ECCFE4D99C7BB35D20EA2B75D9218"
+msgid "Saved Online States"
+msgstr "Giriş Bilgilerini Kaydet"
+
+#. Key:	B2EA93B846FD2EABC38F86910F242CC6
+#. SourceLocation:	/Game/Widgets/Login.Login_C:WidgetTree.TextBlock_121.Text
+#: /Game/Widgets/Login.Login_C:WidgetTree.TextBlock_121.Text
+msgctxt ",B2EA93B846FD2EABC38F86910F242CC6"
+msgid "Save Login Details ?"
+msgstr "Giriş Bilgilerini Kaydet"
+
+#. Key:	B3E54B6C49874623A2336A9471D8A146
+#. SourceLocation:	/Game/Widgets/ShowSaveList.ShowSaveList_C:WidgetTree.TextBlock_86.Text
+#: /Game/Widgets/ShowSaveList.ShowSaveList_C:WidgetTree.TextBlock_86.Text
+msgctxt ",B3E54B6C49874623A2336A9471D8A146"
+msgid "Saved States"
+msgstr "Kayıtlı Durumlar"
+
+#. Key:	B47F10774481AEAB847DC4987DCB4582
+#. SourceLocation:	/Game/Widgets/ItemShowPU.ItemShowPU_C:WidgetTree.ItemName.Text
+#: /Game/Widgets/ItemShowPU.ItemShowPU_C:WidgetTree.ItemName.Text
+msgctxt ",B47F10774481AEAB847DC4987DCB4582"
+msgid "Sword"
+msgstr "Kılıç"
+
+#. Key:	B67FCA7148DCEF8271869DA9EF223EE5
+#. SourceLocation:	/Game/Enums/Ability.Ability.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Enums/Ability.Ability.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",B67FCA7148DCEF8271869DA9EF223EE5"
+msgid "Recover %10 Maximum Health"
+msgstr "Sağlığın %10 nunu Yeniler"
+
+#. Key:	B7A8BBD648172B478A0885A270B76C4B
+#. SourceLocation:	/Game/Widgets/BlacksmithItemShowCase.BlacksmithItemShowCase_C:WidgetTree.TextBlock_1.Text
+#: /Game/Widgets/BlacksmithItemShowCase.BlacksmithItemShowCase_C:WidgetTree.TextBlock_1.Text
+msgctxt ",B7A8BBD648172B478A0885A270B76C4B"
+msgid "Scroll"
+msgstr "Parşömen"
+
+#. Key:	BC312CDD46D235D44B10468E9C22A6BD
+#. SourceLocation:	/Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(12 - Value).DisplayNameMap
+#: /Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(12 - Value).DisplayNameMap
+msgctxt ",BC312CDD46D235D44B10468E9C22A6BD"
+msgid "One-Handed Sword"
+msgstr "Tek-Ellik Kılıç"
+
+#. Key:	BC650DDA496C20C53956BB9E68A644F1
+#. SourceLocation:	/Game/Widgets/Node.Node_C:WidgetTree.Endurance2Name.Text
+#: /Game/Widgets/Node.Node_C:WidgetTree.Endurance2Name.Text
+msgctxt ",BC650DDA496C20C53956BB9E68A644F1"
+msgid "awdewqed awdewqed awdewqed"
+msgstr "awdewqed awdewqed awdewqed"
+
+#. Key:	BCB3402D476CC9CA25AAFA94A6231D0A
+#. SourceLocation:	/Game/Widgets/ShowNodePart.ShowNodePart_C:WidgetTree.Attribute.Text
+#: /Game/Widgets/ShowNodePart.ShowNodePart_C:WidgetTree.Attribute.Text
+msgctxt ",BCB3402D476CC9CA25AAFA94A6231D0A"
+msgid "% 30 Increase Life"
+msgstr "% 30 Increase Life"
+
+#. Key:	BD935D114078D14EFD434F947CE46DDC
+#. SourceLocation:	/Game/Widgets/GameStart.GameStart_C:WidgetTree.TextBlock_202.Text
+#: /Game/Widgets/GameStart.GameStart_C:WidgetTree.TextBlock_202.Text
+msgctxt ",BD935D114078D14EFD434F947CE46DDC"
+msgid "Load Game"
+msgstr "Oyunu Yükle"
+
+#. Key:	BDFEAC1F4CB9589AEA93E3BB1D640DD7
+#. SourceLocation:	/Game/Widgets/LoadingWidget.LoadingWidget_C:Set Location [Script Bytecode]
+#: /Game/Widgets/LoadingWidget.LoadingWidget_C:Set Location [Script Bytecode]
+msgctxt ",BDFEAC1F4CB9589AEA93E3BB1D640DD7"
+msgid "Tribe Territory"
+msgstr "Kabile Bölgesi"
+
+#. Key:	BE1C4DEE47AEEF8C6259EABD726B522D
+#. SourceLocation:	/Game/Widgets/Main.Main_C:WidgetTree.TextBlock_83.Text
+#: /Game/Widgets/Main.Main_C:WidgetTree.TextBlock_83.Text
+msgctxt ",BE1C4DEE47AEEF8C6259EABD726B522D"
+msgid "Bag"
+msgstr "Çanta"
+
+#. Key:	C0C0B00F4B0C248C3E9C18B3DC30D4E8
+#. SourceLocation:	/Game/Widgets/Main.Main_C:WidgetTree.SelectText2.Text
+#: /Game/Widgets/Main.Main_C:WidgetTree.SelectText2.Text
+msgctxt ",C0C0B00F4B0C248C3E9C18B3DC30D4E8"
+msgid "Select"
+msgstr "Seç"
+
+#. Key:	C1B5BF8646DD5F36F57C509DBCC9B419
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",C1B5BF8646DD5F36F57C509DBCC9B419"
+msgid "Lightning Resistance"
+msgstr "Elektrik Rezistansı"
+
+#. Key:	C22C49A04A2623CE56355AAB8D0A0672
+#. SourceLocation:	/Game/Widgets/LoggedIN.LoggedIN_C:WidgetTree.TextBlock_1.Text
+#: /Game/Widgets/LoggedIN.LoggedIN_C:WidgetTree.TextBlock_1.Text
+msgctxt ",C22C49A04A2623CE56355AAB8D0A0672"
+msgid "Logout"
+msgstr "Hesaptan Çıl"
+
+#. Key:	C3526E734302225F45F267BA18691120
+#. SourceLocation:	/Game/Widgets/QuestsMonsterTracker.QuestsMonsterTracker_C:WidgetTree.MonsterKilledCount.Text
+#: /Game/Widgets/QuestsMonsterTracker.QuestsMonsterTracker_C:WidgetTree.MonsterKilledCount.Text
+msgctxt ",C3526E734302225F45F267BA18691120"
+msgid "25"
+msgstr "25"
+
+#. Key:	C7A6ACA24E98BD33FE36948DD36ABF4E
+#. SourceLocation:	/Game/Widgets/GameStart.GameStart_C:WidgetTree.TextBlock_312.Text
+#: /Game/Widgets/GameStart.GameStart_C:WidgetTree.TextBlock_312.Text
+msgctxt ",C7A6ACA24E98BD33FE36948DD36ABF4E"
+msgid "Start New Game"
+msgstr "Yeni Oyun"
+
+#. Key:	CC2BC359456F8E3F896C3E85B6E05720
+#. SourceLocation:	/Game/Enums/BookProps.BookProps.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Enums/BookProps.BookProps.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",CC2BC359456F8E3F896C3E85B6E05720"
+msgid "Increase Item Rarity Spawn Rate"
+msgstr "İtem Nadirlik Belirme Oran Yükselmesi"
+
+#. Key:	CCCB78E74F0BB041AF604AAC7E2ABF0C
+#. SourceLocation:	/Game/Widgets/SkillSelect.SkillSelect_C:WidgetTree.TextBlock_0.Text
+#: /Game/Widgets/SkillSelect.SkillSelect_C:WidgetTree.TextBlock_0.Text
+msgctxt ",CCCB78E74F0BB041AF604AAC7E2ABF0C"
+msgid "Close"
+msgstr "Kapat"
+
+#. Key:	CD00DBAB43940EF5D7863D8EEEE94E7C
+#. SourceLocation:	/Game/Widgets/Register.Register_C:WidgetTree.TextBlock_0.Text
+#: /Game/Widgets/Register.Register_C:WidgetTree.TextBlock_0.Text
+msgctxt ",CD00DBAB43940EF5D7863D8EEEE94E7C"
+msgid "Email for lost password you can left empty"
+msgstr "E-mail kayıp şifreler için boş geçebilirsiniz"
+
+#. Key:	CD9BEA9F48ACDD7525F5C898B3DA708E
+#. SourceLocation:	/Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",CD9BEA9F48ACDD7525F5C898B3DA708E"
+msgid "Hammer"
+msgstr "Çekiç"
+
+#. Key:	CDA1D6C24D413C9AB04D3F84004F39B3
+#. SourceLocation:	/Game/Widgets/Node.Node_C:WidgetTree.PathOfWarriorName.Text
+#: /Game/Widgets/Node.Node_C:WidgetTree.PathOfWarriorName.Text
+msgctxt ",CDA1D6C24D413C9AB04D3F84004F39B3"
+msgid "awdewqed awdewqed awdewqed"
+msgstr "awdewqed awdewqed awdewqed"
+
+#. Key:	CDF567024D1E33EB33FF1A9D4259F653
+#. SourceLocation:	/Game/Widgets/LoggedIN.LoggedIN_C:WidgetTree.TextBlock.Text
+#: /Game/Widgets/LoggedIN.LoggedIN_C:WidgetTree.TextBlock.Text
+msgctxt ",CDF567024D1E33EB33FF1A9D4259F653"
+msgid "Close"
+msgstr "Kapat"
+
+#. Key:	CE9E91E34F5E0D0687010AAB4FC1BCA4
+#. SourceLocation:	/Game/Widgets/ShowSaveListPart.ShowSaveListPart_C:WidgetTree.CharacterName.Text
+#: /Game/Widgets/ShowSaveListPart.ShowSaveListPart_C:WidgetTree.CharacterName.Text
+msgctxt ",CE9E91E34F5E0D0687010AAB4FC1BCA4"
+msgid "Kratosc2"
+msgstr "Kratosc2"
+
+#. Key:	CED78F37450A5B067821ECA2B7081C5D
+#. SourceLocation:	/Game/Widgets/MerchantPart.MerchantPart_C:WidgetTree.BuyText.Text
+#: /Game/Widgets/MerchantPart.MerchantPart_C:WidgetTree.BuyText.Text
+msgctxt ",CED78F37450A5B067821ECA2B7081C5D"
+msgid "Buy"
+msgstr "Satın al"
+
+#. Key:	CFED38F04E2E7D872096D8A160C819A7
+#. SourceLocation:	/Game/Widgets/Login.Login_C:WidgetTree.TextBlock_223.Text
+#: /Game/Widgets/Login.Login_C:WidgetTree.TextBlock_223.Text
+msgctxt ",CFED38F04E2E7D872096D8A160C819A7"
+msgid "Login"
+msgstr "Giriş"
+
+#. Key:	D0ECFA574FDED4DE6C14DFB40248C3E9
+#. SourceLocation:	/Game/Enums/Monsters.Monsters.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Enums/Monsters.Monsters.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",D0ECFA574FDED4DE6C14DFB40248C3E9"
+msgid "Default"
+msgstr "Default"
+
+#. Key:	D2894E6F4C638A59B72C938BDDA95658
+#. SourceLocation:	/Game/Widgets/BeltSlot.BeltSlot_C:WidgetTree.ItemQuantity.Text
+#: /Game/Widgets/BeltSlot.BeltSlot_C:WidgetTree.ItemQuantity.Text
+msgctxt ",D2894E6F4C638A59B72C938BDDA95658"
+msgid "9999"
+msgstr "9999"
+
+#. Key:	D3C06DE349EBF11C7BDAA3B1F73C4A04
+#. SourceLocation:	/Game/Widgets/Menu.Menu_C:WidgetTree.TextBlock_49.Text
+#: /Game/Widgets/Menu.Menu_C:WidgetTree.TextBlock_49.Text
+msgctxt ",D3C06DE349EBF11C7BDAA3B1F73C4A04"
+msgid "Master Volume"
+msgstr "Ana Ses"
+
+#. Key:	D3D3D776427B27E620578AB80FB50923
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(21 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(21 - Value).DisplayNameMap
+msgctxt ",D3D3D776427B27E620578AB80FB50923"
+msgid "Physical Life Leech"
+msgstr "Fiziksel Can Çekme"
+
+#. Key:	D3E94C6C481B50A0057A5787B860D951
+#. SourceLocation:	/Game/Enums/BookProps.BookProps.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Enums/BookProps.BookProps.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",D3E94C6C481B50A0057A5787B860D951"
+msgid "Increase Item Drop Rate"
+msgstr "İtem Düşme Oranı Yükselmesi"
+
+#. Key:	D5BF2FC840946143AAF9278C1D00E953
+#. SourceLocation:	/Game/Widgets/ItemShowcase.ItemShowcase_C:WidgetTree.TextBlock_0.Text
+#: /Game/Widgets/ItemShowcase.ItemShowcase_C:WidgetTree.TextBlock_0.Text
+msgctxt ",D5BF2FC840946143AAF9278C1D00E953"
+msgid "Portal Scroll"
+msgstr "Portal Parşömeni"
+
+#. Key:	D71E1C15436EE7FE4F0CD285D5BEF349
+#. SourceLocation:	/Game/Widgets/Register.Register_C:WidgetTree.Password.HintText
+#: /Game/Widgets/Register.Register_C:WidgetTree.Password.HintText
+msgctxt ",D71E1C15436EE7FE4F0CD285D5BEF349"
+msgid "Password"
+msgstr "Şifre"
+
+#. Key:	D7C453804C16F17EF2BE2F95BE9DDE41
+#. SourceLocation:	/Game/Widgets/Damage.Damage_C:WidgetTree.DamageText.Text
+#: /Game/Widgets/Damage.Damage_C:WidgetTree.DamageText.Text
+msgctxt ",D7C453804C16F17EF2BE2F95BE9DDE41"
+msgid "256"
+msgstr "256"
+
+#. Key:	D991ADBC49AA74EE51F5E5A9D9DACA82
+#. SourceLocation:	/Game/Widgets/Login.Login_C:ExecuteUbergraph_Login [Script Bytecode]
+#: /Game/Widgets/Login.Login_C:ExecuteUbergraph_Login [Script Bytecode]
+msgctxt ",D991ADBC49AA74EE51F5E5A9D9DACA82"
+msgid "Enter E-Mail Address to id section"
+msgstr "Kimlik kısmına epostanızı girin"
+
+#. Key:	D9D812E04729E24631E03CAE2B82EEB1
+#. SourceLocation:	/Game/Widgets/MerchantPart.MerchantPart_C:WidgetTree.NameText.Text
+#: /Game/Widgets/MerchantPart.MerchantPart_C:WidgetTree.NameText.Text
+msgctxt ",D9D812E04729E24631E03CAE2B82EEB1"
+msgid "Small Potion"
+msgstr "Küçük İksir"
+
+#. Key:	DD027B2847A2C17A65DF04BD0A31D549
+#. SourceLocation:	/Game/Enums/TeleportLocations.TeleportLocations.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Enums/TeleportLocations.TeleportLocations.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",DD027B2847A2C17A65DF04BD0A31D549"
+msgid "Unreal Territory"
+msgstr "Gerçek Olmayan Bölge"
+
+#. Key:	DE41D8A34013CEB87FB028962432D328
+#. SourceLocation:	/Game/Enums/Raritys.Raritys.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Enums/Raritys.Raritys.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",DE41D8A34013CEB87FB028962432D328"
+msgid "Unique"
+msgstr "Özel"
+
+#. Key:	E04C44A6435E7110685B3CA745B4EC53
+#. SourceLocation:	/Game/Enums/NodeName.NodeName.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Enums/NodeName.NodeName.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",E04C44A6435E7110685B3CA745B4EC53"
+msgid "Strength"
+msgstr "Güç"
+
+#. Key:	E0F486D2481396B64875ACA59FDE9477
+#. SourceLocation:	/Game/Widgets/Login.Login_C:ExecuteUbergraph_Login [Script Bytecode]
+#: /Game/Widgets/Login.Login_C:ExecuteUbergraph_Login [Script Bytecode]
+msgctxt ",E0F486D2481396B64875ACA59FDE9477"
+msgid "No Registered User Found on this E-mail"
+msgstr "Bu emaile kayıtlı kullanıcı bulunamadı"
+
+#. Key:	E20F2C4F4EE498C9E0AB1CA6A2B9CBD8
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(25 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(25 - Value).DisplayNameMap
+msgctxt ",E20F2C4F4EE498C9E0AB1CA6A2B9CBD8"
+msgid "Level"
+msgstr "Seviye"
+
+#. Key:	E63D91B34D91C61ED71CDEAC48E0C4C4
+#. SourceLocation:	/Game/Widgets/ShowSaveListPart.ShowSaveListPart_C:WidgetTree.LvText.Text
+#: /Game/Widgets/ShowSaveListPart.ShowSaveListPart_C:WidgetTree.LvText.Text
+msgctxt ",E63D91B34D91C61ED71CDEAC48E0C4C4"
+msgid "Lv :"
+msgstr "Seviye :"
+
+#. Key:	E6483DFF43BA42EB255C7BA312D7E423
+#. SourceLocation:	/Game/Enums/BaseType.BaseType.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Enums/BaseType.BaseType.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",E6483DFF43BA42EB255C7BA312D7E423"
+msgid "Weapon"
+msgstr "Silah"
+
+#. Key:	E88F20E64D6FE035B82ED8AEB3E05298
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(19 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(19 - Value).DisplayNameMap
+msgctxt ",E88F20E64D6FE035B82ED8AEB3E05298"
+msgid "Increase Cold Resistance"
+msgstr "Buz Resistansı Yükselmesi"
+
+#. Key:	E8D704D8495DBFE8660CB480632EEE7F
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",E8D704D8495DBFE8660CB480632EEE7F"
+msgid "Fire Damage"
+msgstr "Ateş Hasarı"
+
+#. Key:	E90FF70646C5E0676F4C96BBB92D4DBD
+#. SourceLocation:	/Game/Enums/LocationsEnum.LocationsEnum.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Enums/LocationsEnum.LocationsEnum.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",E90FF70646C5E0676F4C96BBB92D4DBD"
+msgid "Dawn Town"
+msgstr "Şafak Kasabası"
+
+#. Key:	E976C7024778241F51E3D3A74CD82F5E
+#. SourceLocation:	/Game/Widgets/Tree.Tree_C:WidgetTree.Header.Text
+#: /Game/Widgets/Tree.Tree_C:WidgetTree.Header.Text
+msgctxt ",E976C7024778241F51E3D3A74CD82F5E"
+msgid "Tree"
+msgstr "Ağaç"
+
+#. Key:	E9FF1F1E4DF39E97D0E75782E9182C3B
+#. SourceLocation:	/Game/Widgets/Node.Node_C:WidgetTree.BladeTornadoName.Text
+#: /Game/Widgets/Node.Node_C:WidgetTree.BladeTornadoName.Text
+msgctxt ",E9FF1F1E4DF39E97D0E75782E9182C3B"
+msgid "awdewqed awdewqed awdewqed"
+msgstr "awdewqed awdewqed awdewqed"
+
+#. Key:	EB9F60564D0BB8A14EACDA84BE7F6037
+#. SourceLocation:	/Game/Widgets/Main.Main_C:WidgetTree.TextBlock_1.Text
+#: /Game/Widgets/Main.Main_C:WidgetTree.TextBlock_1.Text
+msgctxt ",EB9F60564D0BB8A14EACDA84BE7F6037"
+msgid "Inventory"
+msgstr "Envanter"
+
+#. Key:	EBA6E4534CDE2E448F60CF928911F131
+#. SourceLocation:	/Game/Widgets/ShowSaveListOnlinePart.ShowSaveListOnlinePart_C:WidgetTree.LvText.Text
+#: /Game/Widgets/ShowSaveListOnlinePart.ShowSaveListOnlinePart_C:WidgetTree.LvText.Text
+msgctxt ",EBA6E4534CDE2E448F60CF928911F131"
+msgid "Lv :"
+msgstr "Seviye :"
+
+#. Key:	EBEDA6074829587E4B9B5BB9F009C2F8
+#. SourceLocation:	/Game/Widgets/MerchantPart.MerchantPart_C:WidgetTree.DecreanentText.Text
+#: /Game/Widgets/MerchantPart.MerchantPart_C:WidgetTree.DecreanentText.Text
+msgctxt ",EBEDA6074829587E4B9B5BB9F009C2F8"
+msgid "-"
+msgstr "-"
+
+#. Key:	EE151FBE4F73513F0598C08EEB8B8F53
+#. SourceLocation:	/Game/Enums/WeaponAttachName.WeaponAttachName.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Enums/WeaponAttachName.WeaponAttachName.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",EE151FBE4F73513F0598C08EEB8B8F53"
+msgid "Default"
+msgstr "Default"
+
+#. Key:	EEC8AE4D405651CF4D619BBF7EA1F31E
+#. SourceLocation:	/Game/Enums/Quest.Quest.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Enums/Quest.Quest.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",EEC8AE4D405651CF4D619BBF7EA1F31E"
+msgid "Kill"
+msgstr "Öldürme"
+
+#. Key:	F1EAAED14FD297654C61C1A5618D050A
+#. SourceLocation:	/Game/Enums/NodeName.NodeName.DisplayNameMap(9 - Value).DisplayNameMap
+#: /Game/Enums/NodeName.NodeName.DisplayNameMap(9 - Value).DisplayNameMap
+msgctxt ",F1EAAED14FD297654C61C1A5618D050A"
+msgid "Blade Slash"
+msgstr "Bıçak Fırlatma"
+
+#. Key:	F3129EF44CA6CD56C69C48A4E7BF2938
+#. SourceLocation:	/Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/Enums/ItemTypes.ItemTypes.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",F3129EF44CA6CD56C69C48A4E7BF2938"
+msgid "Potion"
+msgstr "İksir"
+
+#. Key:	F4B9BFD94C3652AEFF1BAC9806001C79
+#. SourceLocation:	/Game/Enums/Attribute.Attribute.DisplayNameMap(23 - Value).DisplayNameMap
+#: /Game/Enums/Attribute.Attribute.DisplayNameMap(23 - Value).DisplayNameMap
+msgctxt ",F4B9BFD94C3652AEFF1BAC9806001C79"
+msgid "Critical Strike"
+msgstr "Kiritk Hasar"
+
+#. Key:	F6B90B7D4169ABE3FE1AE5B6CA45FEE5
+#. SourceLocation:	/Game/Enums/LocationsEnum.LocationsEnum.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Enums/LocationsEnum.LocationsEnum.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",F6B90B7D4169ABE3FE1AE5B6CA45FEE5"
+msgid "Tribe Territory"
+msgstr "Kabile Bölgesi"
+
+#. Key:	F709E8DF49E589A4B97EFC9DC8E6E631
+#. SourceLocation:	/Game/Widgets/ShowSaveListPart.ShowSaveListPart_C:WidgetTree.LevelText.Text
+#: /Game/Widgets/ShowSaveListPart.ShowSaveListPart_C:WidgetTree.LevelText.Text
+msgctxt ",F709E8DF49E589A4B97EFC9DC8E6E631"
+msgid "25255"
+msgstr "25255"
+
+#. Key:	F72D9AD1461D913A86512AAD9BD555D4
+#. SourceLocation:	/Game/Widgets/TravelNextWorld.TravelNextWorld_C:WidgetTree.Yes.Text
+#: /Game/Widgets/TravelNextWorld.TravelNextWorld_C:WidgetTree.Yes.Text
+msgctxt ",F72D9AD1461D913A86512AAD9BD555D4"
+msgid "Yes"
+msgstr "Evet"
+
+#. Key:	F91E51B446FF674563E30BB1AEC9A4E7
+#. SourceLocation:	/Game/Enums/NodeName.NodeName.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/Enums/NodeName.NodeName.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",F91E51B446FF674563E30BB1AEC9A4E7"
+msgid "Bark Skin"
+msgstr "Kabuk Deri"
+
+#. Key:	F96E18C744393F914F3EFC85359926DB
+#. SourceLocation:	/Game/Widgets/ShowSaveListPart.ShowSaveListPart_C:WidgetTree.CreateTime.Text
+#: /Game/Widgets/ShowSaveListPart.ShowSaveListPart_C:WidgetTree.CreateTime.Text
+msgctxt ",F96E18C744393F914F3EFC85359926DB"
+msgid "Time"
+msgstr "Zaman"
+
+#. Key:	FA6142C1483120A2728DF0B041295261
+#. SourceLocation:	/Game/Widgets/QuestsPart.QuestsPart_C:WidgetTree.QuestInformation.Text
+#: /Game/Widgets/QuestsPart.QuestsPart_C:WidgetTree.QuestInformation.Text
+msgctxt ",FA6142C1483120A2728DF0B041295261"
+msgid "Talk with old man in dawn town to take first sword"
+msgstr "İlk kılıcı almak için şafak kasabasındaki yaşlı adamla konuş"
+
+#. Key:	FB204AAC4021A24DABF74AAC359985B8
+#. SourceLocation:	/Game/Widgets/Main.Main_C:WidgetTree.SelectText3.Text
+#: /Game/Widgets/Main.Main_C:WidgetTree.SelectText3.Text
+msgctxt ",FB204AAC4021A24DABF74AAC359985B8"
+msgid "Select"
+msgstr "Seç"
+
+#. Key:	FB5F54184972AC427239968D02FFF604
+#. SourceLocation:	/Game/Widgets/SkillSelectNode.SkillSelectNode_C:WidgetTree.TextBlock_53.Text
+#: /Game/Widgets/SkillSelectNode.SkillSelectNode_C:WidgetTree.TextBlock_53.Text
+msgctxt ",FB5F54184972AC427239968D02FFF604"
+msgid "Boomerang Blade"
+msgstr "Boomerang Blade"
+
+#. Key:	FB913B2B4DC220F2A7E7EB879870514E
+#. SourceLocation:	/Game/Enums/Equipments.Equipments.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/Enums/Equipments.Equipments.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",FB913B2B4DC220F2A7E7EB879870514E"
+msgid "Boots"
+msgstr "Botlar"
+
+#. Key:	FBA66D8644F1AD800D8594967FD7D7F7
+#. SourceLocation:	/Game/Widgets/Node.Node_C:WidgetTree.EnduranceName_1.Text
+#: /Game/Widgets/Node.Node_C:WidgetTree.EnduranceName_1.Text
+msgctxt ",FBA66D8644F1AD800D8594967FD7D7F7"
+msgid "awdewqed awdewqed awdewqed"
+msgstr "awdewqed awdewqed awdewqed"
+
+#. Key:	FBF1B8BF4A6F1E15EBE83C83CA208E92
+#. SourceLocation:	/Game/Widgets/Login.Login_C:WidgetTree.TextBlock_545.Text
+#: /Game/Widgets/Login.Login_C:WidgetTree.TextBlock_545.Text
+msgctxt ",FBF1B8BF4A6F1E15EBE83C83CA208E92"
+msgid "to get password enter e-mail address to id box and hit lost password button"
+msgstr "Şifreyi Almak için kimlik bölümüne epostayı girip şifremi kaybettim butonuna basın"
+
+#. Key:	FFD3F2F14252126413416487E8CF79D0
+#. SourceLocation:	/Game/Widgets/Main.Main_C:WidgetTree.TextBlock.Text
+#: /Game/Widgets/Main.Main_C:WidgetTree.TextBlock.Text
+msgctxt ",FFD3F2F14252126413416487E8CF79D0"
+msgid "Tree"
+msgstr "Ağaç"
+
